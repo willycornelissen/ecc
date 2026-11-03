@@ -1,6 +1,6 @@
 # Fase 8: Governança, Memória Contínua & Aprendizado (ECC Universal)
 
-Este documento detalha a oitava e contínua fase da esteira de engenharia do **ECC (Enterprise Custom Configuration)**, conforme estruturado no [`pipeline.md`](file:///home/willy/Sandbox/ecc/pipeline.md).
+Este documento detalha a oitava e contínua fase da esteira de engenharia do **ECC (Everything Claude Code)**, conforme estruturado no [`pipeline.md`](file:///home/willy/Sandbox/ecc/pipeline.md).
 
 ---
 

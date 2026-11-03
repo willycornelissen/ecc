@@ -1,6 +1,6 @@
 # Fase 3: Planejamento Técnico de Implementação (ECC Universal)
 
-Este documento detalha a terceira fase da esteira de engenharia do **ECC (Enterprise Custom Configuration)**, conforme estruturado no [`pipeline.md`](file:///home/willy/Sandbox/ecc/pipeline.md).
+Este documento detalha a terceira fase da esteira de engenharia do **ECC (Everything Claude Code)**, conforme estruturado no [`pipeline.md`](file:///home/willy/Sandbox/ecc/pipeline.md).
 
 ---
 

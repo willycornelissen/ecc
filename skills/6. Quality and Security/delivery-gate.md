@@ -1,6 +1,6 @@
 # Skill / Hook: Delivery Gate (`delivery-gate`)
 
-O **Delivery Gate** é o mecanismo de barreira física e higiene de sessão do ecossistema **ECC (Enterprise Custom Configuration)**, posicionado na [Fase 5: Qualidade, Segurança & Verificação Adversarial](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%205%20-%20Qualidade,%20Segurança%20&%20Verificação%20Adversarial.md).
+O **Delivery Gate** é o mecanismo de barreira física e higiene de sessão do ecossistema **ECC (Everything Claude Code)**, posicionado na [Fase 5: Qualidade, Segurança & Verificação Adversarial](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%205%20-%20Qualidade,%20Segurança%20&%20Verificação%20Adversarial.md).
 
 Seu lema de engenharia é:
 > **"Impedir mecanicamente que o assistente declare uma tarefa como 'pronta' antes que os critérios de qualidade passem, atalhos de racionalização sejam expostos e as lições aprendidas sejam devidamente registradas na memória do projeto."**

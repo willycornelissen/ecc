@@ -1,6 +1,6 @@
 # Skill: Eval Harness (`eval-harness`)
 
-A skill **Eval Harness** é o framework de **Eval-Driven Development (EDD — Desenvolvimento Guiado por Avaliações)** do ecossistema **ECC (Enterprise Custom Configuration)**, posicionada na [Fase 4: Implementação Guiada por Testes (TDD)](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%204%20-%20Implementação%20Guiada%20por%20Testes%20(TDD).md).
+A skill **Eval Harness** é o framework de **Eval-Driven Development (EDD — Desenvolvimento Guiado por Avaliações)** do ecossistema **ECC (Everything Claude Code)**, posicionada na [Fase 4: Implementação Guiada por Testes (TDD)](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%204%20-%20Implementação%20Guiada%20por%20Testes%20(TDD).md).
 
 Sua premissa central é:
 > **"Evals são os testes unitários do desenvolvimento assistido por IA. Da mesma forma que o TDD define o teste antes do código, o EDD define os critérios mensuráveis de sucesso e regressão antes que o agente autônomo execute a tarefa."**

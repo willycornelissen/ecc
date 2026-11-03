@@ -1,6 +1,6 @@
 # Fase 6: Testes Ponta a Ponta (E2E) & Auditoria de UI (ECC Universal)
 
-Este documento detalha a sexta fase da esteira de engenharia do **ECC (Enterprise Custom Configuration)**, conforme estruturado no [`pipeline.md`](file:///home/willy/Sandbox/ecc/pipeline.md).
+Este documento detalha a sexta fase da esteira de engenharia do **ECC (Everything Claude Code)**, conforme estruturado no [`pipeline.md`](file:///home/willy/Sandbox/ecc/pipeline.md).
 
 ---
 

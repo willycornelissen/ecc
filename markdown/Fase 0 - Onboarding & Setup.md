@@ -1,6 +1,6 @@
 # Fase 0: Onboarding & Setup (ECC Universal)
 
-Este documento detalha o primeiro passo para a inicialização e o onboarding de um projeto utilizando a esteira de engenharia do **ECC (Enterprise Custom Configuration)**, conforme estruturado no [`pipeline.md`](file:///home/willy/Sandbox/ecc/pipeline.md).
+Este documento detalha o primeiro passo para a inicialização e o onboarding de um projeto utilizando a esteira de engenharia do **ECC (Everything Claude Code)**, conforme estruturado no [`pipeline.md`](file:///home/willy/Sandbox/ecc/pipeline.md).
 
 ---
 

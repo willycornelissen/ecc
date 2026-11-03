@@ -1,6 +1,6 @@
 # Skill: Verification Loop (`verification-loop`)
 
-A skill **Verification Loop** é o sistema de auditoria mecânica e verificação determinística do **ECC (Enterprise Custom Configuration)**, posicionada como o primeiro e mais rigoroso filtro da [Fase 5: Qualidade, Segurança & Verificação Adversarial](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%205%20-%20Qualidade,%20Segurança%20&%20Verificação%20Adversarial.md).
+A skill **Verification Loop** é o sistema de auditoria mecânica e verificação determinística do **ECC (Everything Claude Code)**, posicionada como o primeiro e mais rigoroso filtro da [Fase 5: Qualidade, Segurança & Verificação Adversarial](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%205%20-%20Qualidade,%20Segurança%20&%20Verificação%20Adversarial.md).
 
 Seu lema de engenharia é:
 > **"Nenhum código avança para Pull Request ou produção baseado em suposições ou opiniões subjetivas. Cada entrega é submetida a uma bateria sequencial de 6 portões mecânicos fechados, executados diretamente pelos compiladores e ferramentas do projeto."**

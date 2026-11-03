@@ -1,6 +1,6 @@
 # Skill: E2E Testing (`e2e-testing`)
 
-A skill **E2E Testing** é o guia de padrões arquiteturais e boas práticas para testes ponta a ponta (*End-to-End*) utilizando **Playwright** no ecossistema **ECC (Enterprise Custom Configuration)**. Ela atua como o topo da pirâmide de testes na [Fase 4: Implementação Guiada por Testes (TDD)](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%204%20-%20Implementação%20Guiada%20por%20Testes%20(TDD).md) e prepara a base para a validação visual na [Fase 6: E2E & Auditoria de UI](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%206%20-%20Testes%20Ponta%20a%20Ponta%20(E2E)%20&%20Auditoria%20de%20UI.md).
+A skill **E2E Testing** é o guia de padrões arquiteturais e boas práticas para testes ponta a ponta (*End-to-End*) utilizando **Playwright** no ecossistema **ECC (Everything Claude Code)**. Ela atua como o topo da pirâmide de testes na [Fase 4: Implementação Guiada por Testes (TDD)](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%204%20-%20Implementação%20Guiada%20por%20Testes%20(TDD).md) e prepara a base para a validação visual na [Fase 6: E2E & Auditoria de UI](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%206%20-%20Testes%20Ponta%20a%20Ponta%20(E2E)%20&%20Auditoria%20de%20UI.md).
 
 Seu lema de engenharia é:
 > **"Testes E2E devem validar as jornadas críticas do usuário como um navegador real as experimenta, com execução paralela rápida, isolamento via Page Objects e tolerância zero a testes instáveis (*flaky tests*) no CI/CD."**

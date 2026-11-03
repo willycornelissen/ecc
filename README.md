@@ -1,4 +1,4 @@
-# ECC - Enterprise Custom Configuration / Everything Claude Code
+# ECC - Everything Claude Code
 
 > **Esteira e Framework de Engenharia de Software Orientado a Agentes de IA**  
 > Compatível com ecossistemas multi-harness: **Antigravity, Claude Code, Cursor, Codex, OpenCode, Gemini e Zed**.
@@ -7,7 +7,7 @@
 
 ## 📌 Visão Geral
 
-O **ECC (*Enterprise Custom Configuration* / *Everything Claude Code*)** é uma infraestrutura operacional, metodológica e de governança para desenvolvimento de software assistido por agentes de inteligência artificial.
+O **ECC (*Everything Claude Code*)** é uma infraestrutura operacional, metodológica e de governança para desenvolvimento de software assistido por agentes de inteligência artificial.
 
 Seu princípio fundamental é:
 > *"Otimize a janela de contexto. Persista todo o resto."*

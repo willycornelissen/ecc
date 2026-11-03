@@ -1,6 +1,6 @@
 # Skill / Subagente: Type Design Analyzer (`type-design-analyzer`)
 
-O **Type Design Analyzer** é o especialista em modelagem de dados orientada a tipos (*Type-Driven Design*) do ecossistema **ECC (Enterprise Custom Configuration)**, posicionado na [Fase 2: Especificação Comportamental (SDD) & Design](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%202%20-%20Especificação%20Comportamental%20(SDD)%20&%20Design.md).
+O **Type Design Analyzer** é o especialista em modelagem de dados orientada a tipos (*Type-Driven Design*) do ecossistema **ECC (Everything Claude Code)**, posicionado na [Fase 2: Especificação Comportamental (SDD) & Design](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%202%20-%20Especificação%20Comportamental%20(SDD)%20&%20Design.md).
 
 Seu lema de engenharia é o célebre axioma formulado por Yaron Minsky:
 > **"Make illegal states unrepresentable"** (*Torne estados ilegais impossíveis de serem representados no sistema de tipos*).

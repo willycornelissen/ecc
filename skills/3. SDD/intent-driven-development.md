@@ -1,6 +1,6 @@
 # Skill: Intent-Driven Development (`intent-driven-development`)
 
-A skill **Intent-Driven Development (IDD)** é a engrenagem central de **Spec-Driven Development (SDD)** do ecossistema **ECC (Enterprise Custom Configuration)**, posicionada estrategicamente na [Fase 2: Especificação Comportamental (SDD) & Design](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%202%20-%20Especificação%20Comportamental%20(SDD)%20&%20Design.md).
+A skill **Intent-Driven Development (IDD)** é a engrenagem central de **Spec-Driven Development (SDD)** do ecossistema **ECC (Everything Claude Code)**, posicionada estrategicamente na [Fase 2: Especificação Comportamental (SDD) & Design](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%202%20-%20Especificação%20Comportamental%20(SDD)%20&%20Design.md).
 
 O propósito fundamental da skill é:
 > **"Transformar intenções, ideias e requisitos ambíguos ou de alto impacto em Critérios de Aceitação (ACs) estritos, delimitados e verificáveis por testes automatizados, antes ou paralelamente à implementação, sem transformar a especificação em burocracia estéril."**

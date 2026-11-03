@@ -1,6 +1,6 @@
 # Skill: Browser QA (`browser-qa`)
 
-A skill **Browser QA** é a ferramenta de auditoria visual automatizada, verificação de interação e smoke tests no navegador do **ECC (Enterprise Custom Configuration)**, posicionada na [Fase 6: Testes Ponta a Ponta (E2E) & Auditoria de UI](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%206%20-%20Testes%20Ponta%20a%20Ponta%20(E2E)%20&%20Auditoria%20de%20UI.md).
+A skill **Browser QA** é a ferramenta de auditoria visual automatizada, verificação de interação e smoke tests no navegador do **ECC (Everything Claude Code)**, posicionada na [Fase 6: Testes Ponta a Ponta (E2E) & Auditoria de UI](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%206%20-%20Testes%20Ponta%20a%20Ponta%20(E2E)%20&%20Auditoria%20de%20UI.md).
 
 Seu lema de engenharia é:
 > **"Interagir com a aplicação em execução como um usuário real interage, avaliando erros de console, Core Web Vitals, regressão visual responsiva e acessibilidade (axe-core) para emitir um veredito formal de liberação: SHIP ou DO-NOT-SHIP."**

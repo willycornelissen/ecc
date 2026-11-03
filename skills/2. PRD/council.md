@@ -1,6 +1,6 @@
 # Skill: Council (`council`)
 
-A skill **Council** é uma ferramenta deliberativa do **ECC (Enterprise Custom Configuration)** criada especificamente para **tomada de decisão sob ambiguidade** (*decision-making under ambiguity*), posicionada na [Fase 1: Concepção, Discovery & Decisões de Produto](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%201%20-%20Concepção,%20Discovery%20&%20Decisões%20de%20Produto.md).
+A skill **Council** é uma ferramenta deliberativa do **ECC (Everything Claude Code)** criada especificamente para **tomada de decisão sob ambiguidade** (*decision-making under ambiguity*), posicionada na [Fase 1: Concepção, Discovery & Decisões de Produto](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%201%20-%20Concepção,%20Discovery%20&%20Decisões%20de%20Produto.md).
 
 O princípio fundamental do `council` é:
 > *"O objetivo não é buscar unanimidade ou consenso artificial, mas tornar o desacordo técnico e os trade-offs transparentes e legíveis antes de tomar uma decisão de engenharia."*

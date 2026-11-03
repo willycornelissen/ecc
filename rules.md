@@ -1,6 +1,6 @@
 # Guia de Rules do ECC (Everything Claude Code)
 
-No ecossistema do **ECC (*Everything Claude Code*, também referenciado em pipelines corporativos como *Enterprise Custom Configuration*)**, as **Rules** representam a **camada de governança normativa e guardrails mandatórios**. Elas definem as leis, padrões de engenharia, limites de segurança e restrições arquiteturais que os modelos de IA e os desenvolvedores são **obrigados a seguir** durante toda a sessão.
+No ecossistema do **ECC (*Everything Claude Code*)**, as **Rules** representam a **camada de governança normativa e guardrails mandatórios**. Elas definem as leis, padrões de engenharia, limites de segurança e restrições arquiteturais que os modelos de IA e os desenvolvedores são **obrigados a seguir** durante toda a sessão.
 
 Enquanto as **Skills** explicam *como executar* uma técnica e os **Workflows** orquestram *o fluxo de ponta a ponta*, as **Rules** estabelecem **o que é permitido, proibido ou mandatório** (*what to do, what NOT to do*).
 

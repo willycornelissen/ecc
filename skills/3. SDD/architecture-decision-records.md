@@ -1,6 +1,6 @@
 # Skill: Architecture Decision Records (`architecture-decision-records`)
 
-A skill **Architecture Decision Records (ADR)** é a ferramenta de governança e memória arquitetural do ecossistema **ECC (Enterprise Custom Configuration)**, posicionada na [Fase 2: Especificação Comportamental (SDD) & Design](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%202%20-%20Especificação%20Comportamental%20(SDD)%20&%20Design.md).
+A skill **Architecture Decision Records (ADR)** é a ferramenta de governança e memória arquitetural do ecossistema **ECC (Everything Claude Code)**, posicionada na [Fase 2: Especificação Comportamental (SDD) & Design](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%202%20-%20Especificação%20Comportamental%20(SDD)%20&%20Design.md).
 
 Seu lema de engenharia é:
 > **"Em vez de decisões arquiteturais viverem apenas em conversas de chat, comentários soltos de PR ou na memória volátil de alguém, este processo produz documentos estruturados que vivem versionados junto ao código-fonte em `docs/adr/`."**

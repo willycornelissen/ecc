@@ -1,6 +1,6 @@
 # Skill / Subagente: Security Reviewer (`security-reviewer`)
 
-O **Security Reviewer** é o subagente especialista em detecção e remediação proativa de vulnerabilidades de segurança do **ECC (Enterprise Custom Configuration)**, posicionado estrategicamente na [Fase 5: Qualidade, Segurança & Verificação Adversarial](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%205%20-%20Qualidade,%20Segurança%20&%20Verificação%20Adversarial.md).
+O **Security Reviewer** é o subagente especialista em detecção e remediação proativa de vulnerabilidades de segurança do **ECC (Everything Claude Code)**, posicionado estrategicamente na [Fase 5: Qualidade, Segurança & Verificação Adversarial](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%205%20-%20Qualidade,%20Segurança%20&%20Verificação%20Adversarial.md).
 
 Seu lema de engenharia é:
 > **"Segurança não é um anexo opcional ou um item de backlog para depois do lançamento. Uma única vulnerabilidade em produção pode custar perdas financeiras reais, vazamento de dados de clientes e destruição de reputação. Seja minucioso, seja proativo e seja paranoico."**

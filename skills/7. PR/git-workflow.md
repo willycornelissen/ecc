@@ -1,6 +1,6 @@
 # Git Workflow: Padrões de Versionamento, Higiene e Estratégias de Branching
 
-A skill **`git-workflow`** do ECC (*Enterprise Custom Configuration*) estabelece os padrões e as melhores práticas para controle de versão com Git em equipes de engenharia de software e fluxos de trabalho assistidos por IA. 
+A skill **`git-workflow`** do ECC (*Everything Claude Code*) estabelece os padrões e as melhores práticas para controle de versão com Git em equipes de engenharia de software e fluxos de trabalho assistidos por IA. 
 
 O foco central desta skill é garantir **rastreabilidade, previsibilidade e higiene do histórico**, cobrindo a escolha da estratégia de ramificação ideal (GitHub Flow, Trunk-Based ou GitFlow), a padronização semântica de commits (*Conventional Commits*), a limpeza do histórico local antes da submissão (*interactive rebase*), a resolução técnica e segura de conflitos e a preparação estruturada de Pull Requests.
 

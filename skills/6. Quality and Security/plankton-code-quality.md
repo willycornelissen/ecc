@@ -1,6 +1,6 @@
 # Skill: Plankton Code Quality (`plankton-code-quality`)
 
-A skill **Plankton Code Quality** é o sistema de aplicação de qualidade de código em tempo de escrita (*write-time enforcement*) integrado ao **ECC (Enterprise Custom Configuration)**, posicionada na [Fase 5: Qualidade, Segurança & Verificação Adversarial](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%205%20-%20Qualidade,%20Segurança%20&%20Verificação%20Adversarial.md).
+A skill **Plankton Code Quality** é o sistema de aplicação de qualidade de código em tempo de escrita (*write-time enforcement*) integrado ao **ECC (Everything Claude Code)**, posicionada na [Fase 5: Qualidade, Segurança & Verificação Adversarial](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%205%20-%20Qualidade,%20Segurança%20&%20Verificação%20Adversarial.md).
 
 Criada originalmente por [@alxfazio](https://github.com/alxfazio) e adaptada ao ECC, seu lema de engenharia é:
 > **"Qualidade e formatação de código não devem ser adiadas para a hora do commit ou para a pipeline de CI. Cada arquivo editado ou criado pelo agente de IA deve ser imediatamente formatado, auditado e autocorrido no exato instante da escrita (*write-time*)."**

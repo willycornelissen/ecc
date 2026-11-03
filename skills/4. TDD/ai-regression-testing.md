@@ -1,6 +1,6 @@
 # Skill: AI Regression Testing (`ai-regression-testing`)
 
-A skill **AI Regression Testing** é a guardiã contra regressões silenciosas do ecossistema **ECC (Enterprise Custom Configuration)**, posicionada na [Fase 4: Implementação Guiada por Testes (TDD)](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%204%20-%20Implementação%20Guiada%20por%20Testes%20(TDD).md).
+A skill **AI Regression Testing** é a guardiã contra regressões silenciosas do ecossistema **ECC (Everything Claude Code)**, posicionada na [Fase 4: Implementação Guiada por Testes (TDD)](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%204%20-%20Implementação%20Guiada%20por%20Testes%20(TDD).md).
 
 Seu lema de engenharia é claro e pragmático:
 > **"Quando o mesmo modelo de IA escreve o código e depois o revisa, ele carrega exatamente os mesmos pontos cegos cognitivos nas duas etapas. Apenas testes automatizados executáveis quebram esse ciclo vicioso."**

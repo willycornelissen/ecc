@@ -59,7 +59,7 @@ Enquanto abordagens como **BMAD**, **SpecKit** e coleções de regras/prompts no
 
 ### Tabela Comparativa Detalhada
 
-| Critério | Spec-Driven (BMAD, SpecKit, Taskmaster) | Superpowers / Prompt Packs | ECC (Enterprise Custom Configuration) |
+| Critério | Spec-Driven (BMAD, SpecKit, Taskmaster) | Superpowers / Prompt Packs | ECC (Everything Claude Code) |
 | :--- | :--- | :--- | :--- |
 | **Natureza Principal** | **Fábrica de Documentos:** Simula burocracia de software tradicional (PM → Arquiteto → Dev → QA). | **Catálogo de Prompts:** Instruções prontas, templates e regras passivas para IDEs. | **Runtime & SO do Agente:** Camada de governança mecânica, orquestração e memória. |
 | **Onde Atua** | Pré-código (gera longos PRDs, épicos e stories em `.md`). | Dentro do prompt ou injetado em `.cursorrules`. | No ciclo completo: ganchos no SO (*hooks*), terminal, testes, compilação e memória. |

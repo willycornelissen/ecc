@@ -1,6 +1,6 @@
 # Skill: Production Audit (`production-audit`)
 
-A skill **Production Audit** é a auditoria preventiva de prontidão operacional do **ECC (Enterprise Custom Configuration)**, posicionada na [Fase 7: Publicação, Pull Request & Produção](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%207%20-%20Publicação,%20Pull%20Request%20&%20Produção.md).
+A skill **Production Audit** é a auditoria preventiva de prontidão operacional do **ECC (Everything Claude Code)**, posicionada na [Fase 7: Publicação, Pull Request & Produção](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%207%20-%20Publicação,%20Pull%20Request%20&%20Produção.md).
 
 Seu lema de engenharia é:
 > **"CI verde não é sinônimo de prontidão para produção. O Production Audit responde à pergunta mais crítica antes do merge: 'O que vai quebrar em produção quando os usuários reais começarem a usar?'"**

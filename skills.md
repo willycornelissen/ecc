@@ -1,6 +1,6 @@
 # Catálogo Completo de Skills do ECC (Everything Claude Code)
 
-As **Skills** do **ECC (*Everything Claude Code*, também referenciado em pipelines corporativos como *Enterprise Custom Configuration*)** são pacotes modulares de instruções procedimentais, scripts determinísticos, padrões de engenharia e regras de execução que ensinam aos modelos de IA **como executar tarefas de engenharia de software com rigor profissional**.
+As **Skills** do **ECC (*Everything Claude Code*)** são pacotes modulares de instruções procedimentais, scripts determinísticos, padrões de engenharia e regras de execução que ensinam aos modelos de IA **como executar tarefas de engenharia de software com rigor profissional**.
 
 Enquanto os **Agentes** definem *quem* executa o trabalho (a persona, modelo e ferramentas delimitadas), as **Skills** definem os *manuais de procedimento* — detalhando passo a passo metodologias como TDD, auditorias de segurança, testes visuais de UI, escrita de ADRs e memória contínua.
 

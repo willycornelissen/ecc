@@ -1,6 +1,6 @@
 # Catálogo e Arquitetura de Agentes Especialistas do ECC
 
-O **ECC (*Everything Claude Code*, também referenciado em pipelines corporativos como *Enterprise Custom Configuration*)** adota uma arquitetura de múltiplos agentes especializados (*multi-agent architecture*). Em vez de delegar todas as atividades de engenharia de software a um único modelo generalista sobrecarregado de instruções e contexto, o ECC divide o trabalho entre **subagentes com responsabilidades restritas, ferramentas delimitadas e personas técnicas rigorosas**.
+O **ECC (*Everything Claude Code*)** adota uma arquitetura de múltiplos agentes especializados (*multi-agent architecture*). Em vez de delegar todas as atividades de engenharia de software a um único modelo generalista sobrecarregado de instruções e contexto, o ECC divide o trabalho entre **subagentes com responsabilidades restritas, ferramentas delimitadas e personas técnicas rigorosas**.
 
 Este documento apresenta a fundamentação dessa arquitetura, o fluxo de colaboração e o catálogo completo dos **69 agentes** instalados no repositório em [`.agents/agents/`](file:///home/willycornelissen/Desktop/Dablio/ecc/.agents/agents/).
 

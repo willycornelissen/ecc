@@ -1,6 +1,6 @@
 # Skill: Click Path Audit (`click-path-audit`)
 
-A skill **Click Path Audit** é a ferramenta de **auditoria de fluxo comportamental e integridade de máquinas de estado de UI** do **ECC (Enterprise Custom Configuration)**, posicionada na [Fase 6: Testes Ponta a Ponta (E2E) & Auditoria de UI](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%206%20-%20Testes%20Ponta%20a%20Ponta%20(E2E)%20&%20Auditoria%20de%20UI.md).
+A skill **Click Path Audit** é a ferramenta de **auditoria de fluxo comportamental e integridade de máquinas de estado de UI** do **ECC (Everything Claude Code)**, posicionada na [Fase 6: Testes Ponta a Ponta (E2E) & Auditoria de UI](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%206%20-%20Testes%20Ponta%20a%20Ponta%20(E2E)%20&%20Auditoria%20de%20UI.md).
 
 Seu lema de engenharia é:
 > **"Encontrar os bugs invisíveis que a leitura estática de código, os linters e os testes unitários não conseguem ver: efeitos colaterais ocultos em stores globais, condições de corrida entre chamadas sequenciais e handlers de eventos que silenciosamente anulam as ações uns dos outros."**

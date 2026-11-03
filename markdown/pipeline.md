@@ -1,4 +1,4 @@
-# Pipeline Completa de Desenvolvimento com ECC (Enterprise Custom Configuration)
+# Pipeline Completa de Desenvolvimento com ECC (Everything Claude Code)
 
 Este documento descreve a esteira de engenharia completa do **ECC Universal (v2.2.3)**, cobrindo todo o ciclo de vida de desenvolvimento de software (SDLC) com suporte a agentes autônomos, verificações adversariais, TDD e governança contínua.
 

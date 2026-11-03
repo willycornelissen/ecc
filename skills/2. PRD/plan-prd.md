@@ -1,6 +1,6 @@
 # Skill / Workflow: Plan PRD (`plan-prd`)
 
-O **Plan PRD** é o gerador interativo de **PRDs (Product Requirements Documents — Documentos de Requisitos de Produto)** orientado a problemas (*problem-first*) do ecossistema **ECC (Enterprise Custom Configuration)**, posicionado na [Fase 1: Concepção, Discovery & Decisões de Produto](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%201%20-%20Concepção,%20Discovery%20&%20Decisões%20de%20Produto.md).
+O **Plan PRD** é o gerador interativo de **PRDs (Product Requirements Documents — Documentos de Requisitos de Produto)** orientado a problemas (*problem-first*) do ecossistema **ECC (Everything Claude Code)**, posicionado na [Fase 1: Concepção, Discovery & Decisões de Produto](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%201%20-%20Concepção,%20Discovery%20&%20Decisões%20de%20Produto.md).
 
 Seu lema central de engenharia é claro e taxativo:
 > **"Capture o QUE deve ser verdade para o sucesso e o PORQUÊ, e pare rigorosamente antes do COMO."**

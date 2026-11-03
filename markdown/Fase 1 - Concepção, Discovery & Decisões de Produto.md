@@ -1,6 +1,6 @@
 # Fase 1: Concepção, Discovery & Decisões de Produto (ECC Universal)
 
-Este documento detalha a primeira fase do ciclo de desenvolvimento de software da esteira de engenharia do **ECC (Enterprise Custom Configuration)**, conforme estruturado no [`pipeline.md`](file:///home/willy/Sandbox/ecc/pipeline.md).
+Este documento detalha a primeira fase do ciclo de desenvolvimento de software da esteira de engenharia do **ECC (Everything Claude Code)**, conforme estruturado no [`pipeline.md`](file:///home/willy/Sandbox/ecc/pipeline.md).
 
 ---
 

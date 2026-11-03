@@ -1,6 +1,6 @@
 # Skill: Council Multi-Model (`council-multi-model`)
 
-A skill **Council Multi-Model** é uma extensão adversarial avançada da skill [`council`](file:///home/willycornelissen/Desktop/Dablio/ecc/.agents/skills/council/SKILL.md) dentro do ecossistema do **ECC (Enterprise Custom Configuration)**, posicionada na [Fase 1: Concepção, Discovery & Decisões de Produto](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%201%20-%20Concepção,%20Discovery%20&%20Decisões%20de%20Produto.md).
+A skill **Council Multi-Model** é uma extensão adversarial avançada da skill [`council`](file:///home/willycornelissen/Desktop/Dablio/ecc/.agents/skills/council/SKILL.md) dentro do ecossistema do **ECC (Everything Claude Code)**, posicionada na [Fase 1: Concepção, Discovery & Decisões de Produto](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%201%20-%20Concepção,%20Discovery%20&%20Decisões%20de%20Produto.md).
 
 Enquanto o `council` convencional convoca um comitê interno de quatro vozes com papéis delimitados (*Arquiteto*, *Cético*, *Pragmático* e *Crítico*) para estruturar o desacordo técnico e produzir uma síntese, o **`council-multi-model`** adiciona uma camada opcional de **crítica externa multi-provedor** (invocando de forma isolada um modelo concorrente, como o OpenAI Codex) para tentar **"quebrar a síntese"** (*attempt to break the synthesis*) antes que o desenvolvedor tome uma decisão de alto impacto.
 

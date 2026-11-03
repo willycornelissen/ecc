@@ -1,6 +1,6 @@
 # Skill: Santa Method (`santa-method`)
 
-O **Santa Method** é o framework de **verificação adversarial multi-agente** (*Multi-agent adversarial verification*) do ecossistema **ECC (Enterprise Custom Configuration)**, posicionado na [Fase 5: Qualidade, Segurança & Verificação Adversarial](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%205%20-%20Qualidade,%20Segurança%20&%20Verificação%20Adversarial.md).
+O **Santa Method** é o framework de **verificação adversarial multi-agente** (*Multi-agent adversarial verification*) do ecossistema **ECC (Everything Claude Code)**, posicionado na [Fase 5: Qualidade, Segurança & Verificação Adversarial](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%205%20-%20Qualidade,%20Segurança%20&%20Verificação%20Adversarial.md).
 
 Criado originalmente por Ronald Skelton (fundador da RapportScore.ai), seu lema inspirador é:
 > **"Make a list, check it twice. If it's naughty, fix it until it's nice."** (*Faça uma lista, confira duas vezes. Se estiver com defeito, corrija até ficar perfeito*).

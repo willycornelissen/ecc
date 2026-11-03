@@ -1,6 +1,6 @@
 # Guia de Workflows do ECC (Everything Claude Code)
 
-No ecossistema do **ECC (*Everything Claude Code*, também referenciado em pipelines corporativos como *Enterprise Custom Configuration*)**, os **Workflows** são os **roteiros operacionais ponta a ponta (*runbooks* ou pipelines prescritivos)** que dizem ao agente de IA exatamente **qual sequência de passos seguir, quais agentes e ferramentas acionar e qual o critério obrigatório de parada (*stop condition*)**.
+No ecossistema do **ECC (*Everything Claude Code*)**, os **Workflows** são os **roteiros operacionais ponta a ponta (*runbooks* ou pipelines prescritivos)** que dizem ao agente de IA exatamente **qual sequência de passos seguir, quais agentes e ferramentas acionar e qual o critério obrigatório de parada (*stop condition*)**.
 
 Eles residem no repositório em [`.agents/workflows/`](file:///home/willycornelissen/Desktop/Dablio/ecc/.agents/workflows/) e são expostos na interface do usuário primariamente como comandos de barra (*slash commands*).
 

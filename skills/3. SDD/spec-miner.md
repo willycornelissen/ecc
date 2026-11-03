@@ -1,6 +1,6 @@
 # Skill / Subagente: Spec Miner (`spec-miner`)
 
-O **Spec Miner** é o especialista em engenharia reversa e mineração comportamental do **ECC (Enterprise Custom Configuration)**, projetado para viabilizar o **Spec-Driven Development (SDD)** no padrão **OpenSpec** em repositórios existentes ou legados (*brownfield*), posicionado na [Fase 2: Especificação Comportamental (SDD) & Design](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%202%20-%20Especificação%20Comportamental%20(SDD)%20&%20Design.md).
+O **Spec Miner** é o especialista em engenharia reversa e mineração comportamental do **ECC (Everything Claude Code)**, projetado para viabilizar o **Spec-Driven Development (SDD)** no padrão **OpenSpec** em repositórios existentes ou legados (*brownfield*), posicionado na [Fase 2: Especificação Comportamental (SDD) & Design](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%202%20-%20Especificação%20Comportamental%20(SDD)%20&%20Design.md).
 
 Sua filosofia central é direta e minimalista:
 > **"Uma especificação não é um documento burocrático dividido em capítulos conceituais. É uma lista plana de asserções comportamentais observáveis, ancorada diretamente nos métodos e testes que a sustentam no código real."**

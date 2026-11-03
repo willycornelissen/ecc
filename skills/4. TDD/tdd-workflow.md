@@ -1,6 +1,6 @@
 # Skill: TDD Workflow (`tdd-workflow`)
 
-A skill **TDD Workflow** é o motor de execução e implementação da engenharia de software do **ECC (Enterprise Custom Configuration)**, posicionada como o coração da [Fase 4: Implementação Guiada por Testes (TDD)](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%204%20-%20Implementação%20Guiada%20por%20Testes%20(TDD).md).
+A skill **TDD Workflow** é o motor de execução e implementação da engenharia de software do **ECC (Everything Claude Code)**, posicionada como o coração da [Fase 4: Implementação Guiada por Testes (TDD)](file:///home/willycornelissen/Desktop/Dablio/ecc/markdown/Fase%204%20-%20Implementação%20Guiada%20por%20Testes%20(TDD).md).
 
 Seu princípio inegociável é:
 > **"Nenhum código de produção deve ser escrito antes que exista um teste automatizado compilado, executado e comprovadamente falhando pelo motivo correto (RED). O plano fornece a intenção; o ciclo RED/GREEN fornece a prova."**
