@@ -91,13 +91,54 @@ ou utilizando a esteira PRP:
 /prp-prd "Meu novo produto"
 ```
 
-* **Perguntas de Ancoragem**: O workflow [`plan-prd.md`](file:///home/willy/Dablio/ecc/.agents/workflows/plan-prd.md) interroga ativamente:
+* **Perguntas de Ancoragem**: O workflow [`plan-prd.md`](file:///home/willycornelissen/Desktop/Dablio/ecc/.agents/workflows/plan-prd.md) interroga ativamente:
   * Quem é o usuário primário exato?
   * Qual dor mensurável está sendo resolvida?
   * Qual a hipótese de sucesso mensurável (ex: conversão > 10%, tempo de onboarding < 2 minutos)?
 * **Definição Explícita de Non-Goals (*O que NÃO Fazer*)**: Delimita a fronteira do MVP para impedir que o modelo alucine funcionalidades periféricas desnecessárias.
 
-#### 2. Priorização e Tração com [`product-lens`](file:///home/willy/Dablio/ecc/.agents/skills/product-lens/SKILL.md)
+##### Diferença entre os Comandos `/plan-prd` e `/prp-prd`
+
+Embora ambos os comandos sirvam para conceber e especificar um PRD antes da escrita de código, eles pertencem a filosofias e esteiras distintas dentro do ECC:
+
+* **[`/plan-prd`](file:///home/willycornelissen/Desktop/Dablio/ecc/.agents/workflows/plan-prd.md)** é o comando **Lean e Moderno do ECC**, focado em velocidade, delimitação rigorosa de escopo e entrega imediata para o [`/plan`](file:///home/willycornelissen/Desktop/Dablio/ecc/.agents/workflows/plan.md).
+* **[`/prp-prd`](file:///home/willycornelissen/Desktop/Dablio/ecc/.agents/workflows/prp-prd.md)** é o gerador **Extensivo da Esteira PRP (*Product Requirements to PR*)**, adaptado da metodologia de engenharia agêntica de Wirasm (*PRPs-agentic-eng*), incluindo pesquisa ativa de mercado e viabilidade técnica no código.
+
+```mermaid
+flowchart TD
+    subgraph PlanPRDFlow["Esteira Central ECC (/plan-prd)"]
+        direction TB
+        P1["<b>/plan-prd</b><br/>(4 perguntas diretas: Problema, Usuário, Evidência e Escopo)"]
+        P2[".claude/prds/{name}.prd.md<br/><i>(PRD Lean sem código)</i>"]
+        P3["<b>/plan</b><br/><i>(Arquiteta arquivos, tarefas e dependências)</i>"]
+        P1 --> P2 --> P3
+    end
+
+    subgraph PRPFlow["Esteira PRP (/prp-prd)"]
+        direction TB
+        R1["<b>/prp-prd</b><br/>(8 fases: Entrevistas + Pesquisa Web + Varredura do Codebase)"]
+        R2[".claude/PRPs/prds/{name}.prd.md<br/><i>(PRD Completo + Viabilidade Técnica + MoSCoW)</i>"]
+        R3["<b>/prp-plan</b> ➔ <b>/prp-implement</b><br/><i>(Execução modular por fases paralelas)</i>"]
+        R1 --> R2 --> R3
+    end
+```
+
+| Critério | [`/plan-prd`](file:///home/willycornelissen/Desktop/Dablio/ecc/.agents/workflows/plan-prd.md) | [`/prp-prd`](file:///home/willycornelissen/Desktop/Dablio/ecc/.agents/workflows/prp-prd.md) |
+| :--- | :--- | :--- |
+| **Família / Esteira** | **Esteira Central do ECC**<br/>(`/plan-prd` ➔ `/plan` ➔ `tdd-workflow` ➔ `/pr`) | **Esteira PRP (*PRP Workflow Series*)**<br/>(`/prp-prd` ➔ `/prp-plan` ➔ `/prp-implement` ➔ `/prp-pr`) |
+| **Profundidade & Fases** | **4 fases enxutas (*Fast-Gate*)**:<br/>`FRAME` ➔ `GROUND` ➔ `DECIDE` ➔ `GENERATE` | **8 fases detalhadas**:<br/>`INITIATE` ➔ `FOUNDATION` ➔ `RESEARCH` ➔ `DEEP DIVE` ➔ `FEASIBILITY` ➔ `DECISIONS` ➔ `GENERATE` ➔ `OUTPUT` |
+| **Pesquisa Ativa de Mercado** | ❌ Não pesquisa concorrentes na web; foca em extrair a visão e evidências do operador. | ✅ **Sim**; pesquisa concorrentes, tendências de mercado e padrões similares na web durante a interação. |
+| **Varredura Técnica no Código** | ❌ **Expressamente proibido**. Isola o *"o quê/por quê"* e delega 100% dos aspectos técnicos ao `/plan`. | ✅ **Sim**; inspeciona ativamente o repositório para avaliar viabilidade técnica, dependências e riscos. |
+| **Frameworks de Produto** | Hipótese mensurável + *Milestones* de negócio + *Non-Goals*. | *Jobs-To-Be-Done (JTBD)* + Priorização *MoSCoW* (Must/Should/Could/Won't) + Mapa de dependências. |
+| **Local do Artefato** | `.claude/prds/{name}.prd.md` | `.claude/PRPs/prds/{name}.prd.md` |
+| **Tempo Médio de Execução** | **5 a 10 minutos** (conversação rápida). | **20 a 40 minutos** (múltiplas rodadas de perguntas e análises). |
+| **Próximo Passo Canônico** | [`/plan`](file:///home/willycornelissen/Desktop/Dablio/ecc/.agents/workflows/plan.md) `.claude/prds/{name}.prd.md` | [`/prp-plan`](file:///home/willycornelissen/Desktop/Dablio/ecc/.agents/workflows/prp-plan.md) `.claude/PRPs/prds/{name}.prd.md` |
+
+**Critérios de Escolha na Fase 1**:
+* **Escolha [`/plan-prd`](file:///home/willycornelissen/Desktop/Dablio/ecc/.agents/workflows/plan-prd.md)** se a dor a ser resolvida já é conhecida e o objetivo for delimitar escopo, estabelecer métricas e partir rápido para a arquitetura com [`/plan`](file:///home/willycornelissen/Desktop/Dablio/ecc/.agents/workflows/plan.md) e TDD.
+* **Escolha [`/prp-prd`](file:///home/willycornelissen/Desktop/Dablio/ecc/.agents/workflows/prp-prd.md)** se o projeto estiver em ideação inicial complexa e você quiser que a IA atue como um Product Manager consultivo, pesquisando concorrentes e avaliando a viabilidade técnica de antemão.
+
+#### 2. Priorização e Tração com [`product-lens`](file:///home/willycornelissen/Desktop/Dablio/ecc/.agents/skills/product-lens/SKILL.md)
 Se estiver estruturando um MVP comercial ou startup, ative o [`product-lens`](file:///home/willy/Dablio/ecc/.agents/skills/product-lens/SKILL.md) para rodar o diagnóstico de Time-to-Value e priorização ICE (*Impact, Confidence, Ease*), gerando o `PRODUCT-BRIEF.md`.
 
 ---
